@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+    height: 100vh;
+}
+
+@theme {
+    --color-primary: #4f46e5;
+    --color-secondary: #1e1b4b;
+
+    --bg-gradient-main: linear-gradient(
+        90deg,
+        rgba(0, 0, 0, 1) 0%,
+        rgba(34, 34, 140, 1) 51%,
+        rgba(25, 24, 74, 1)
+    );
+}
