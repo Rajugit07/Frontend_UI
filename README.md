@@ -105,7 +105,7 @@ Make sure the following are installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Aventisia_Co_Assignment.git
+git clone https://github.com/Rajugit07/Frontend_UI.git
 cd Aventisia_Co_Assignment/Frontend_UI
 ```
 
